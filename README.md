@@ -44,4 +44,4 @@ The following steps were completed to deploy and activate the validator:
 Validator status was verified using the following command:
 
 ```bash
-safrochaind query staking validator safrovaloper1yye2tzcq8tjnwwfuc8l2q4evn5l009zsrjk33c
+safrochaind query staking validator addr_safrovaloper1yye2tzcq8tjnwwfuc8l2q4evn5l009zsrjk33c
